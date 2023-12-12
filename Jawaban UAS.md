@@ -5,6 +5,7 @@
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+udah
 
 ## Mencoba Console Sistem Operasi
 
