@@ -12,6 +12,8 @@ udah
 ### Windows CMD [v] ⭐⭐⭐⭐
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
+udah
+
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
