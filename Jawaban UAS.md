@@ -6,6 +6,8 @@ udah
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
+udah
+
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 udah
 
