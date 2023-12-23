@@ -1,6 +1,7 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+
 udah
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
