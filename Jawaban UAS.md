@@ -145,6 +145,9 @@ udah ada videonya, tapi belum di upload
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
+udah ada videonya, tapi belum di upload
+
+
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
