@@ -2,21 +2,23 @@
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
-udah
+udah ada videonya, tapi belum di upload
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
-udah
+udah ada videonya, tapi belum di upload
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-udah
+
+udah ada videonya, tapi belum di upload
 
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
-udah
+
+udah ada videonya, tapi belum di upload
 
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
@@ -24,7 +26,7 @@ udah
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
-udah
+udah ada videonya, tapi belum di upload
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
@@ -34,11 +36,11 @@ Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
-udah
+udah ada videonya, tapi belum di upload
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
-udah
+udah ada videonya, tapi belum di upload
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
@@ -106,7 +108,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
-udah
+udah ada videonya, tapi belum di upload
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
@@ -134,7 +136,7 @@ udah
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
-udah
+udah ada videonya, tapi belum di upload
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
@@ -143,12 +145,12 @@ udah
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 
-udah
+udah ada videonya, tapi belum di upload
 
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
-udah
+udah ada videonya, tapi belum di upload
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
