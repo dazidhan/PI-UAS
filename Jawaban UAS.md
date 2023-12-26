@@ -34,6 +34,8 @@ Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
+udah ada videonya, tapi belum di upload
+
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 udah ada videonya, tapi belum di upload
