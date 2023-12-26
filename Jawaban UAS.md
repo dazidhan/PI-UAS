@@ -163,6 +163,9 @@ udah ada videonya, tapi belum di upload
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
+udah ada videonya, tapi belum di upload
+
+
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
