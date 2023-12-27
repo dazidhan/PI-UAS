@@ -168,6 +168,8 @@ udah ada videonya, tapi belum di upload
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
+www.linkedin.com/in/dhaffa-zikrullah-ramadhan-1025022a2
+
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
