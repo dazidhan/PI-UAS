@@ -23,6 +23,7 @@ udah ada videonya, tapi belum di upload
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
+
 udah ada videonya, tapi belum di upload
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
