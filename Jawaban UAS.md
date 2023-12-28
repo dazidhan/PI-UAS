@@ -23,6 +23,8 @@ udah ada videonya, tapi belum di upload
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
+udah ada videonya, tapi belum di upload
+
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
