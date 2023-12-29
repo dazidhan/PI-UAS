@@ -98,6 +98,8 @@ Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
+udah ada videonya, tapi belum di upload
+
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 
