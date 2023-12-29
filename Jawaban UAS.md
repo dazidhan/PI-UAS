@@ -79,6 +79,10 @@ Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.ht
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
+udah ada videonya, tapi belum di upload
+
+
+
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
 Referensi tutorial 
