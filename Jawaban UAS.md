@@ -35,6 +35,9 @@ udah ada videonya, tapi belum di upload
 
 Referensi [1](https://scratch.mit.edu/)
 
+udah ada videonya, tapi belum di upload
+
+
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
 udah ada videonya, tapi belum di upload
@@ -48,6 +51,10 @@ udah ada videonya, tapi belum di upload
 udah ada videonya, tapi belum di upload
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+
+udah ada videonya, tapi belum di upload
+
+
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
