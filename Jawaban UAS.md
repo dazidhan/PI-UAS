@@ -179,7 +179,7 @@ https://github.com/dazidhan/dhaffazik.github.io
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
-udah
+udah ada videonya, tapi belum di upload
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
