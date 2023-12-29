@@ -154,6 +154,8 @@ udah ada videonya, tapi belum di upload
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
+udah ada videonya, tapi belum di upload
+
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
