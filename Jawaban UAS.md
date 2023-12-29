@@ -167,6 +167,8 @@ udah ada videonya, tapi belum di upload
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
+udah ada videonya, tapi belum di upload
+
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
 udah ada videonya, tapi belum di upload
