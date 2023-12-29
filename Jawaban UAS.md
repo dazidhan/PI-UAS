@@ -218,4 +218,7 @@ udah ada videonya, tapi belum di upload
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
+udah ada videonya, tapi belum di upload
+![Screenshot 2023-12-30 021959](https://github.com/dazidhan/PI-UAS/assets/127527401/aeaaaf6c-774e-4d3f-849a-289e0480e6fd)
+
 
