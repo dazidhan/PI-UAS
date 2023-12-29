@@ -89,6 +89,8 @@ Referensi tutorial
 - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
 - Styling halaman web : [CSS](https://www.w3schools.com/css/)
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+  
+udah ada videonya, tapi belum di upload
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
