@@ -142,6 +142,8 @@ udah ada videonya, tapi belum di upload
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
+udah ada videonya, tapi belum di upload
+
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
 udah ada videonya, tapi belum di upload
