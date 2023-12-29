@@ -173,6 +173,8 @@ udah ada videonya, tapi belum di upload
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
+udah ada videonya, tapi belum di upload
+
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 
