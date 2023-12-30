@@ -146,6 +146,8 @@ udah ada videonya, tapi belum di upload
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
+udah ada videonya, tapi belum di upload
+
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
 udah ada videonya, tapi belum di upload
@@ -159,6 +161,8 @@ udah ada videonya, tapi belum di upload
 udah ada videonya, tapi belum di upload
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+
+udah ada videonya, tapi belum di upload
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
