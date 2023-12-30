@@ -134,6 +134,10 @@ udah ada videonya, tapi belum di upload
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
+
+udah ada videonya, tapi belum di upload
+
+
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
 udah ada videonya, tapi belum di upload
