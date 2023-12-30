@@ -142,6 +142,8 @@ udah ada videonya, tapi belum di upload
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
+udah ada videonya, tapi belum di upload
+
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
