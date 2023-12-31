@@ -172,6 +172,10 @@ udah ada videonya, tapi belum di upload
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
+udah ada videonya, tapi belum di upload
+
+
+
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
 udah ada videonya, tapi belum di upload
