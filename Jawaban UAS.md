@@ -158,6 +158,10 @@ udah ada videonya, tapi belum di upload
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
+udah ada videonya, tapi belum di upload
+
+
+
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
 udah ada videonya, tapi belum di upload
