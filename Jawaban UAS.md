@@ -142,6 +142,10 @@ udah ada videonya, tapi belum di upload
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
+udah ada videonya, tapi belum di upload
+
+
+
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 
