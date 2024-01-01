@@ -1,3 +1,3 @@
-# Pengenalan Informatika - UAS
+# Pengenalan Informatika - UAS & UTS
 
-berisi jawaban dari soal UAS PI
+berisi jawaban dari soal UAS & UTS PI
