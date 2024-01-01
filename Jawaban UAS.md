@@ -1,5 +1,8 @@
 ![image](https://github.com/dazidhan/PI-UAS/assets/127527401/d8bac2f8-46f0-4a9a-bd83-6ef42e08b061)
 
+![image](https://github.com/dazidhan/PI-UAS/assets/127527401/8b0ef1e6-4cda-4332-832b-3c254dfd4969)
+
+
 bukti semua video sudah selesai
 
 
