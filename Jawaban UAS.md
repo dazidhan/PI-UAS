@@ -124,6 +124,8 @@ udah ada videonya, tapi belum di upload
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
+udah ada videonya, tapi belum di upload
+
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
 udah ada videonya, tapi belum di upload
