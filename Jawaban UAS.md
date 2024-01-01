@@ -11,7 +11,7 @@ bukti semua video sudah selesai
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/_VYBdVzG3YA
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
