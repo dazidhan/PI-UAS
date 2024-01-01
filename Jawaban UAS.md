@@ -110,8 +110,15 @@ udah ada videonya, tapi belum di upload
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
+udah ada videonya, tapi belum di upload
+
+
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+
+udah ada videonya, tapi belum di upload
+
+
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
