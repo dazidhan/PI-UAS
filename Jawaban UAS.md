@@ -1,3 +1,9 @@
+![image](https://github.com/dazidhan/PI-UAS/assets/127527401/d8bac2f8-46f0-4a9a-bd83-6ef42e08b061)
+
+bukti semua video sudah selesai
+
+
+
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
