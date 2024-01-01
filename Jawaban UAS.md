@@ -104,6 +104,8 @@ udah ada videonya, tapi belum di upload
 
 Referensi []
 
+udah ada videonya, tapi belum di upload
+
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
 udah ada videonya, tapi belum di upload
