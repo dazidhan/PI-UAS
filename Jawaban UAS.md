@@ -17,9 +17,9 @@ https://youtu.be/_VYBdVzG3YA
 
 udah ada videonya, tapi belum di upload
 
-## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+## Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/BQHQcBiWZsk
 
 ## Mencoba Console Sistem Operasi
 
