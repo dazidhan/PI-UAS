@@ -15,7 +15,7 @@ https://youtu.be/_VYBdVzG3YA
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/NoKaO3jaRkk
 
 ## Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
@@ -25,31 +25,23 @@ https://youtu.be/BQHQcBiWZsk
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
-
-udah ada videonya, tapi belum di upload
-
+https://youtu.be/mecAmjiSfRI
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
-
-udah ada videonya, tapi belum di upload
+https://youtu.be/lVoE50gN-GU
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
-udah ada videonya, tapi belum di upload
+https://youtu.be/hWRfL_fH-l0
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-Referensi [1](https://scratch.mit.edu/)
-
-udah ada videonya, tapi belum di upload
-
+https://youtu.be/2kyawjWwEMA
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/PAy2pBMY3No
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
@@ -57,13 +49,11 @@ udah ada videonya, tapi belum di upload
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/gAGkbT2WL6g
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
-
-
+https://youtu.be/2kyawjWwEMA
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
