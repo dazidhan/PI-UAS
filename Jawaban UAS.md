@@ -45,7 +45,7 @@ https://youtu.be/PAy2pBMY3No
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/PmS7ghMMXNY
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
@@ -57,65 +57,35 @@ https://youtu.be/2kyawjWwEMA
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
-Referensi tambahan [1](https://db-engines.com/en/ranking)
-
-udah ada videonya, tapi belum di upload
-
-
+https://youtu.be/iIgQ3AI9IT8
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
-
-udah ada videonya, tapi belum di upload
-
-
+https://youtu.be/mvICQ9ZggnU
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
-- Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-- Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-- Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
-udah ada videonya, tapi belum di upload
-
-
+https://youtu.be/9uyEUhmLzK0
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
-
-
-udah ada videonya, tapi belum di upload
-
+https://youtu.be/PGCoK4lE004
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
-
-udah ada videonya, tapi belum di upload
-
-
+https://youtu.be/Px0vlS74ToA
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
-  
-udah ada videonya, tapi belum di upload
+https://youtu.be/MCd2YUcstB0
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Referensi []
-
-udah ada videonya, tapi belum di upload
+https://youtu.be/uflhSaCdHio
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/kvoGTIUCgpo
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
