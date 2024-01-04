@@ -1,11 +1,4 @@
-![image](https://github.com/dazidhan/PI-UAS/assets/127527401/d8bac2f8-46f0-4a9a-bd83-6ef42e08b061)
-
-![image](https://github.com/dazidhan/PI-UAS/assets/127527401/8b0ef1e6-4cda-4332-832b-3c254dfd4969)
-
-
-bukti semua video sudah selesai
-
-
+Link playlist semua video: https://www.youtube.com/playlist?list=PLAr8U_D4a2AyHdIl8_7KAzBTdVCWNXq4T
 
 # Hello Informatics !
 
@@ -97,136 +90,115 @@ https://youtu.be/mh5diEvnuFU
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/Q0fB3NHnlz4
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/y3urA_5VUKg
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 
-udah ada videonya, tapi belum di upload
-
-Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
+https://youtu.be/7nR2ROf2gVk
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
-
-
+https://youtu.be/6ckuW2CfKPo
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
-
+https://youtu.be/i52bX_PDJlk
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
-udah ada videonya, tapi belum di upload
-
+https://youtu.be/i52bX_PDJlk
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/vtL0Pg3mFOo
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
-
-
+https://youtu.be/opELcd1brcs
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
-
-udah ada videonya, tapi belum di upload
-
+https://youtu.be/ACiu-ZoGnxs
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/aqbv_w2PJlk
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
-
-
+https://youtu.be/zvciXJ2HYuA
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/2YNI6AuARP4
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/YMG6rAhMTzA
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/kOpV2LYFDxE
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/DvFVlH9LXbM
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/akZClQyTINA
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/gpdzT4HeMYM
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
-udah ada videonya, tapi belum di upload
-
-
+https://youtu.be/NKxOTHZ7Y0Q
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
-
+https://youtu.be/n-9VBbGpz3g
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/e9LSMcJ8-9g
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/bTSrnLFjBqQ
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/MqnmaL4P9S4
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/9M_YUXI2ymE
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
-
-udah ada videonya, tapi belum di upload
-
+https://youtu.be/-9FfCmpcb6g
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/jdQfGeHNW-w
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
-
-udah ada videonya, tapi belum di upload
-
+https://youtu.be/vouDfUSuMxw
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/cW97Hu6JjXo
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
-udah ada videonya, tapi belum di upload
-
+https://youtu.be/2GhKIvxovs8
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
@@ -238,11 +210,11 @@ https://github.com/dazidhan/dhaffazik.github.io
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/8QN374zqiK8
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
+https://youtu.be/uHrE99P8-Rs
 
 ![Screenshot 2023-12-30 021959](https://github.com/dazidhan/PI-UAS/assets/127527401/aeaaaf6c-774e-4d3f-849a-289e0480e6fd)
 
