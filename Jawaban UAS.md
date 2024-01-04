@@ -89,15 +89,11 @@ https://youtu.be/kvoGTIUCgpo
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
-
-
+https://youtu.be/mh5diEvnuFU
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
-udah ada videonya, tapi belum di upload
-
-
+https://youtu.be/mh5diEvnuFU
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
